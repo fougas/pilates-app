@@ -591,5 +591,3 @@ const styles = StyleSheet.create({
     borderColor: "#FFA500", // Bordure orange quand coché
   },
 });
-
-//explique moi comment créer un fichier pour android et pour IOS que les utilisateurs pourront télécharger et installer sur leurs téléphone
