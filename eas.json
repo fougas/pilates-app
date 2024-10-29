@@ -1,13 +1,11 @@
 {
   "build": {
-    "amazon-production": {
-      "android": {
-        "credentialsSource": "local"
-      }
-    },
     "production": {
       "android": {
-        "credentialsSource": "remote"
+        "image": "latest"
+      },
+      "ios": {
+        "image": "latest"
       }
     }
   }
