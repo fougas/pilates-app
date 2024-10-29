@@ -5,7 +5,7 @@
         "credentialsSource": "local"
       }
     },
-    "google-production": {
+    "production": {
       "android": {
         "credentialsSource": "remote"
       }
