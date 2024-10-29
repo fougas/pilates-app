@@ -4,7 +4,8 @@
     "slug": "pilates-app",
     "version": "1.0.0",
     "android": {
-      "package": "com.votreapp.pilates"
+      "package": "com.votreapp.pilates",
+      "versionCode": 1
     }
   }
 }
