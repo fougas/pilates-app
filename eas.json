@@ -1,0 +1,14 @@
+{
+  "build": {
+    "amazon-production": {
+      "android": {
+        "credentialsSource": "local"
+      }
+    },
+    "google-production": {
+      "android": {
+        "credentialsSource": "remote"
+      }
+    }
+  }
+}
