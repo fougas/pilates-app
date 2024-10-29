@@ -1,11 +1,8 @@
 {
   "build": {
-    "production": {
+    "preview": {
       "android": {
-        "image": "latest"
-      },
-      "ios": {
-        "image": "latest"
+        "buildType": "apk"
       }
     }
   }
