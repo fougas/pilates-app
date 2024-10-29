@@ -1,31 +1,10 @@
 {
   "expo": {
-    "name": "React Native with Expo on CodeSandbox",
-    "slug": "react-native-codesandbox",
+    "name": "Pilates App",
+    "slug": "pilates-app",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "assetBundlePatterns": ["**/*"],
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
-      "adaptiveIcon": {
-        "package": "com.jddev.pilates-app",
-        "versionCode": 1,
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
-    },
-    "web": {
-      "bundler": "metro",
-      "favicon": "./assets/favicon.png"
+      "package": "com.votreapp.pilates"
     }
   }
 }
