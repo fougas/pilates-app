@@ -17,6 +17,8 @@
     },
     "android": {
       "adaptiveIcon": {
+        "package": "com.jddev.pilates-app",
+        "versionCode": 1,
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
