@@ -3,6 +3,18 @@
     "name": "Pilates App",
     "slug": "pilates-app",
     "version": "1.0.0",
+    "orientation": "portrait",
+    // Configuration iOS
+    "ios": {
+      "bundleIdentifier": "com.votreapp.pilates",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true,
+      "requireFullScreen": true,
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    // Configuration existante Android
     "android": {
       "package": "com.votreapp.pilates",
       "versionCode": 1
